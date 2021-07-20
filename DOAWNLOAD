@@ -1,0 +1,7 @@
+#DOWNLOAD
+ cd Desktop
+git clone https://github.com/rafailes/pent-tools
+pip install colorama
+
+UTILSATION
+python pent-tools.pyg
