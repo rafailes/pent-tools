@@ -6,6 +6,6 @@ you d'ont script for illégals activitys i décline evry responsabilityes  of yo
 
 
 #DOWNLOAD
-cd Desktop
-git clone https://github.com/rafailes/pent-tools
+cd Desktop 
+git clone https://github.com/rafailes/pent-tools 
 pip install colorama
