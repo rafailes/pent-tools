@@ -7,6 +7,6 @@ of your actions
 
 
 #DOWNLOAD
-cd Desktop 
+cd Desktop       
                                                                                                                                                                   git clone https://github.com/rafailes/pent-tools 
 pip install colorama
